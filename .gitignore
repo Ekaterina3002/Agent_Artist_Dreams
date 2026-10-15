@@ -1,0 +1,23 @@
+# Секреты
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+tempCodeRunnerFile.py
